@@ -12,3 +12,19 @@ img{
     display: block;
     margin: auto;
 }
+a{
+    text-decoration: none;
+}
+button{
+    text-align: center;
+    color: chartreuse;
+    padding: 16px;
+    margin: 47px;
+    
+}
+ul{
+    text-align: center;
+    list-style: none;
+    padding: 16px;
+    margin: 16px;
+}
