@@ -1,0 +1,14 @@
+* {background-color: chartreuse;}
+div{
+    
+    border: 2px solid rgb(127,0, 255);
+    margin: 4px;
+    padding: 16px;
+}
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
