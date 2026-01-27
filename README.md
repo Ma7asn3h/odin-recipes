@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes, basic HTML structure.
