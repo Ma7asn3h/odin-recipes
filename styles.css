@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    color: #CC7700;
+    background-color: #444444;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+ul {
+    list-style: none;
+    
+}
+
+a {
+    text-decoration: none;
+}
+li{
+    color: #CC7700;
+    background-color: #222222;
+    height: 7%;
+    width: auto;
+    text-align: center;
+    padding: 48px;
+    margin: 7%;
+}
